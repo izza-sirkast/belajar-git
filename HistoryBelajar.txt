@@ -1,0 +1,3 @@
+History belajar:
+- Maret : belajar node js dari channel youtube wpu 
+- April : belajar react dasar dari website scrimba
