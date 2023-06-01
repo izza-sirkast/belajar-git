@@ -1,3 +1,4 @@
 History belajar:
-- Maret : belajar node js dari channel youtube wpu 
+- Maret : belajar node js dari channel youtube wpu dan dari channel youtube eduanix
 - April : belajar react dasar dari website scrimba
+- Juni : belajar react routing dari website scrimba
