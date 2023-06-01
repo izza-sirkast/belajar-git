@@ -1,0 +1,4 @@
+Rencana belajar tahun 2023:
+
+- Belajar react
+- Belajar tailwind
