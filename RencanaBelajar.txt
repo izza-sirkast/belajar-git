@@ -6,5 +6,4 @@ Rencana belajar tahun 2023:
 - Belajar css lebih dalam
 - Belajar html update terbaru
 - Belajar api
-- Belajar git dan github
-
+- Belajar advance algorithms
