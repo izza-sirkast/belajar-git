@@ -1,8 +1,8 @@
 Rencana belajar tahun 2023:
 
 - Belajar react
-- Belajar tailwind
+- Belajar bootstrap
 - Belajar javascript lebih dalam
 - Belajar api
 - Belajar git dan github
-- Belajar node js
+- Belajar css lebih dalam
