@@ -2,9 +2,9 @@ Rencana belajar tahun 2023:
 
 - Belajar react
 - Belajar bootstrap
-- Belajar javascript lebih dalam
+- Belajar javascript es6 dan javascript karakteristik
 - Belajar css lebih dalam
 - Belajar html update terbaru
 - Belajar api
 - Belajar git dan github
-- Belajar css lebih dalam
+
