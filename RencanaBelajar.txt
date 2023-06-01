@@ -5,3 +5,4 @@ Rencana belajar tahun 2023:
 - Belajar javascript lebih dalam
 - Belajar api
 - Belajar git dan github
+- Belajar node js
